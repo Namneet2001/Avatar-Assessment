@@ -98,11 +98,11 @@ Here are the results from applying the algorithm to sample images:
 
     * Before segmentation
 
-        [Simple-Desk](.img/1-img.png)
+        ![Simple-Desk](.img/1-img.png)
     
     * After segmentation
 
-        [Object-segemented-desk](.img/2-img.png)
+        ![Object-segemented-desk](.img/2-img.png)
 
 * Task 2: The object is shifted as per the user-defined x and y values.
 
